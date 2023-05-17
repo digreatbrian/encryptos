@@ -1,23 +1,24 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=67.7.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "encrypto"
+name = "encryptos"
 version = "1.0.1"
 authors = [
   { name="Brian Musakwa", email="digreatbrian@gmail.com" },
 ]
 description = "A simple module to encrypt and decrypt data using a secret keys/passcodes"
 readme = "README.md"
-keywords = ['encrypt' ,'encrypto' ,'decrypt' ,'lock' ,'data' ,'encryption' ,'secure' ,'aes']
+keywords = ['encrypt' ,'encryptos','encrypto' ,'decrypt' ,'lock' ,'data' ,'encryption' ,'secure' ,'aes']
 requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: GNU LESSER GENERAL PUBLIC LICENSE",
+    "License :: OSI Approved :: GNU Lesser General Public License v2 (LGPLv2)",
     "Operating System :: OS Independent",
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/digreatbrian/encrypto"
-"Bug Tracker" = "https://github.com/digreatbrian/encrypto/issues"
+"Homepage" = "https://github.com/digreatbrian/encryptos"
+"Bug Tracker" = "https://github.com/digreatbrian/encryptos/issues"
+
