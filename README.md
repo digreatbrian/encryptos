@@ -1,3 +1,5 @@
+![icon](https://github.com/digreatbrian/encryptos/blob/main/assets/encryptos.jpg)
+
 # Encryptos Description
 
 Get to encrypt data easily using a unique algorithm.
